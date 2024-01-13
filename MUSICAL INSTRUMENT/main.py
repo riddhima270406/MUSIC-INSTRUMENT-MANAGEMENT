@@ -583,20 +583,6 @@ def mod():
     
     modd.place(x=330, y=450)
 
-    
-
-#[id, name, price]
-#search, accept, display, modify
-
-
-
-
-#USER
-
-
-
-
-
 
 
 W1.withdraw()
